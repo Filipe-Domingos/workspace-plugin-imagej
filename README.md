@@ -1,3 +1,1 @@
-# workspace-plugin-imagej
-# workspace-plugin-imagej
-# workspace-plugin-imagej
+Trabalho da Disciplina Tópicos Avançados 1 - Fabio Ducan
